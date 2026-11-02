@@ -4,7 +4,7 @@ PvPoke Open **Ultra League** overall top 100.
 
 Source: [PvPoke](https://pvpoke.com/rankings/all/2500/overall/)
 
-Auto-synced **2026-10-26 18:03** (UTC) via GitHub Action.
+Auto-synced **2026-11-02 21:15** (UTC) via GitHub Action.
 
 Scores/moves from PvPoke rankings. **R1 IV** = best stat-product IV under the league CP cap (level 50), computed from PvPoke gamemaster base stats — not the site's defaultIVs.
 
