@@ -1,157 +1,167 @@
 {
-  "fetchedAt": "2026-11-16 21:29",
+  "fetchedAt": "2026-11-23 23:11",
   "houseIv": "0-1attack&2-4defense&2-4hp",
-  "tokenCount": 100,
-  "query": "0-1attack&2-4defense&2-4hp&+tinkatink,+meltan,+rookidee,+munchlax,+swablu,+vulpix,virizion,+piplup,mimikyu,zygarde,+flabebe,moltres,cramorant,+totodile,+corsola,+wooper,+frillish,giratina,+nickit,+dewpider,guzzlord,sableye,+deino,+fuecoco,+dunsparce,lapras,+cubone,+grookey,+slakoth,+spearow,stunfisk,umbreon,+duskull,+mankey,dondozo,+mantyke,registeel,+azurill,+squirtle,+voltorb,deoxys,+pineco,+inkay,regidrago,carbink,+grubbin,+sentret,+hippopotas,+meditite,cresselia,+vullaby,+cleffa,+bunnelby,+hoppip,+horsea,morpeko,+grimer,+fletchling,+yamask,turtonator,+spheal,+dratini,+goldeen,+onix,+lileep,+seel,pachirisu,+popplio,+mudkip,+pikipek,+mareep,+honedge,+wimpod,+feebas,+tadbulb,+tympole,+togepi,miltank,+tarountula,+oshawott,+teddiursa,+magikarp,+pumpkaboo,+spoink,bombirdier,+bagon,+skorupi,oranguru,+tentacool,orthworm,+spritzee,articuno,+lechonk,+swinub,+poliwag,cobalion,genesect,raikou,+shellos,zapdos",
+  "tokenCount": 103,
+  "query": "0-1attack&2-4defense&2-4hp&+tinkatink,+rookidee,+meltan,+munchlax,zygarde,+swablu,+vulpix,virizion,mimikyu,+flabebe,moltres,+piplup,cramorant,+totodile,+corsola,+wooper,giratina,+frillish,guzzlord,+deino,sableye,+nickit,+fuecoco,+dewpider,lapras,+dunsparce,+duskull,stunfisk,+mankey,+cubone,+grookey,umbreon,+slakoth,dondozo,+spearow,+azurill,+voltorb,regidrago,carbink,+mantyke,registeel,deoxys,+pineco,+inkay,cresselia,+grubbin,+sentret,+hippopotas,+meditite,+horsea,+vullaby,morpeko,+fletchling,+squirtle,+cleffa,+hoppip,+grimer,+dratini,+spheal,+yamask,+pikipek,+lileep,turtonator,+onix,pachirisu,+seel,+goldeen,+mareep,+bunnelby,+mudkip,+popplio,+tadbulb,+wimpod,+togepi,+honedge,+feebas,+tympole,+teddiursa,oranguru,+magikarp,miltank,+spoink,+pumpkaboo,+oshawott,+bagon,bombirdier,+spritzee,+tarountula,articuno,+skorupi,+lechonk,+tentacool,zapdos,+dwebble,+jangmo-o,orthworm,+swinub,kyurem,+poliwag,+charmander,+pawniard,raikou,sylveon",
   "tokens": [
     "+tinkatink",
-    "+meltan",
     "+rookidee",
+    "+meltan",
     "+munchlax",
+    "zygarde",
     "+swablu",
     "+vulpix",
     "virizion",
-    "+piplup",
     "mimikyu",
-    "zygarde",
     "+flabebe",
     "moltres",
+    "+piplup",
     "cramorant",
     "+totodile",
     "+corsola",
     "+wooper",
-    "+frillish",
     "giratina",
-    "+nickit",
-    "+dewpider",
+    "+frillish",
     "guzzlord",
-    "sableye",
     "+deino",
+    "sableye",
+    "+nickit",
     "+fuecoco",
-    "+dunsparce",
+    "+dewpider",
     "lapras",
+    "+dunsparce",
+    "+duskull",
+    "stunfisk",
+    "+mankey",
     "+cubone",
     "+grookey",
-    "+slakoth",
-    "+spearow",
-    "stunfisk",
     "umbreon",
-    "+duskull",
-    "+mankey",
+    "+slakoth",
     "dondozo",
+    "+spearow",
+    "+azurill",
+    "+voltorb",
+    "regidrago",
+    "carbink",
     "+mantyke",
     "registeel",
-    "+azurill",
-    "+squirtle",
-    "+voltorb",
     "deoxys",
     "+pineco",
     "+inkay",
-    "regidrago",
-    "carbink",
+    "cresselia",
     "+grubbin",
     "+sentret",
     "+hippopotas",
     "+meditite",
-    "cresselia",
-    "+vullaby",
-    "+cleffa",
-    "+bunnelby",
-    "+hoppip",
     "+horsea",
+    "+vullaby",
     "morpeko",
-    "+grimer",
     "+fletchling",
-    "+yamask",
-    "turtonator",
-    "+spheal",
+    "+squirtle",
+    "+cleffa",
+    "+hoppip",
+    "+grimer",
     "+dratini",
-    "+goldeen",
-    "+onix",
-    "+lileep",
-    "+seel",
-    "pachirisu",
-    "+popplio",
-    "+mudkip",
+    "+spheal",
+    "+yamask",
     "+pikipek",
+    "+lileep",
+    "turtonator",
+    "+onix",
+    "pachirisu",
+    "+seel",
+    "+goldeen",
     "+mareep",
-    "+honedge",
-    "+wimpod",
-    "+feebas",
+    "+bunnelby",
+    "+mudkip",
+    "+popplio",
     "+tadbulb",
-    "+tympole",
+    "+wimpod",
     "+togepi",
-    "miltank",
-    "+tarountula",
-    "+oshawott",
+    "+honedge",
+    "+feebas",
+    "+tympole",
     "+teddiursa",
-    "+magikarp",
-    "+pumpkaboo",
-    "+spoink",
-    "bombirdier",
-    "+bagon",
-    "+skorupi",
     "oranguru",
-    "+tentacool",
-    "orthworm",
+    "+magikarp",
+    "miltank",
+    "+spoink",
+    "+pumpkaboo",
+    "+oshawott",
+    "+bagon",
+    "bombirdier",
     "+spritzee",
+    "+tarountula",
     "articuno",
+    "+skorupi",
     "+lechonk",
+    "+tentacool",
+    "zapdos",
+    "+dwebble",
+    "+jangmo-o",
+    "orthworm",
     "+swinub",
+    "kyurem",
     "+poliwag",
-    "cobalion",
-    "genesect",
+    "+charmander",
+    "+pawniard",
     "raikou",
-    "+shellos",
-    "zapdos"
+    "sylveon"
   ],
   "mapping": [
     {
       "speciesId": "tinkaton",
       "speciesName": "Tinkaton",
-      "score": 94.5,
+      "score": 94.2,
       "league": "ul",
       "token": "+tinkatink"
     },
     {
-      "speciesId": "melmetal",
-      "speciesName": "Melmetal",
-      "score": 94.4,
-      "league": "gl",
-      "token": "+meltan"
-    },
-    {
       "speciesId": "corviknight",
       "speciesName": "Corviknight",
-      "score": 94,
+      "score": 93.9,
       "league": "ul",
       "token": "+rookidee"
     },
     {
+      "speciesId": "melmetal",
+      "speciesName": "Melmetal",
+      "score": 93.9,
+      "league": "gl",
+      "token": "+meltan"
+    },
+    {
       "speciesId": "snorlax_shadow",
       "speciesName": "Snorlax (Shadow)",
-      "score": 93.5,
+      "score": 93.4,
       "league": "ul",
       "token": "+munchlax"
     },
     {
       "speciesId": "corviknight_shadow",
       "speciesName": "Corviknight (Shadow)",
-      "score": 93.4,
+      "score": 93.2,
       "league": "ul",
       "token": "+rookidee"
     },
     {
+      "speciesId": "zygarde_complete",
+      "speciesName": "Zygarde (Complete Forme)",
+      "score": 92.9,
+      "league": "ul",
+      "token": "zygarde"
+    },
+    {
       "speciesId": "altaria",
       "speciesName": "Altaria",
-      "score": 92.9,
+      "score": 92.8,
       "league": "gl",
       "token": "+swablu"
     },
     {
       "speciesId": "ninetales_shadow",
       "speciesName": "Ninetales (Shadow)",
-      "score": 92.9,
+      "score": 92.6,
       "league": "gl",
       "token": "+vulpix"
     },
@@ -163,32 +173,11 @@
       "token": "virizion"
     },
     {
-      "speciesId": "empoleon",
-      "speciesName": "Empoleon",
-      "score": 92.2,
-      "league": "ul",
-      "token": "+piplup"
-    },
-    {
-      "speciesId": "empoleon_shadow",
-      "speciesName": "Empoleon (Shadow)",
-      "score": 92.1,
-      "league": "ul",
-      "token": "+piplup"
-    },
-    {
       "speciesId": "mimikyu",
       "speciesName": "Mimikyu (Busted)",
       "score": 92.1,
-      "league": "gl",
-      "token": "mimikyu"
-    },
-    {
-      "speciesId": "zygarde_complete",
-      "speciesName": "Zygarde (Complete Forme)",
-      "score": 92.1,
       "league": "ul",
-      "token": "zygarde"
+      "token": "mimikyu"
     },
     {
       "speciesId": "florges",
@@ -198,13 +187,6 @@
       "token": "+flabebe"
     },
     {
-      "speciesId": "snorlax",
-      "speciesName": "Snorlax",
-      "score": 92,
-      "league": "ul",
-      "token": "+munchlax"
-    },
-    {
       "speciesId": "moltres_galarian",
       "speciesName": "Moltres (Galarian)",
       "score": 91.9,
@@ -212,53 +194,74 @@
       "token": "moltres"
     },
     {
+      "speciesId": "empoleon",
+      "speciesName": "Empoleon",
+      "score": 91.8,
+      "league": "ul",
+      "token": "+piplup"
+    },
+    {
+      "speciesId": "empoleon_shadow",
+      "speciesName": "Empoleon (Shadow)",
+      "score": 91.7,
+      "league": "ul",
+      "token": "+piplup"
+    },
+    {
       "speciesId": "cramorant",
       "speciesName": "Cramorant",
-      "score": 91.8,
+      "score": 91.6,
       "league": "gl",
       "token": "cramorant"
     },
     {
-      "speciesId": "feraligatr_shadow",
-      "speciesName": "Feraligatr (Shadow)",
-      "score": 91.7,
+      "speciesId": "snorlax",
+      "speciesName": "Snorlax",
+      "score": 91.5,
       "league": "ul",
-      "token": "+totodile"
+      "token": "+munchlax"
     },
     {
       "speciesId": "altaria_shadow",
       "speciesName": "Altaria (Shadow)",
-      "score": 91.5,
+      "score": 91.4,
       "league": "gl",
       "token": "+swablu"
     },
     {
+      "speciesId": "feraligatr_shadow",
+      "speciesName": "Feraligatr (Shadow)",
+      "score": 91.4,
+      "league": "ul",
+      "token": "+totodile"
+    },
+    {
       "speciesId": "corsola_galarian",
       "speciesName": "Corsola (Galarian)",
-      "score": 91.5,
+      "score": 91.3,
       "league": "gl",
       "token": "+corsola"
     },
     {
       "speciesId": "feraligatr",
       "speciesName": "Feraligatr",
-      "score": 91.5,
+      "score": 91.3,
       "league": "ul",
       "token": "+totodile"
     },
     {
       "speciesId": "quagsire_shadow",
       "speciesName": "Quagsire (Shadow)",
-      "score": 91.4,
+      "score": 91.3,
       "league": "gl",
       "token": "+wooper"
     },
     {
-      "speciesId": "quagsire",
-      "speciesName": "Quagsire",
-      "score": 91.3,
-      "league": "gl",
-      "token": "+wooper"
+      "speciesId": "giratina_altered",
+      "speciesName": "Giratina (Altered)",
+      "score": 91.2,
+      "league": "ul",
+      "token": "giratina"
     },
     {
       "speciesId": "jellicent",
@@ -268,46 +271,25 @@
       "token": "+frillish"
     },
     {
-      "speciesId": "ninetales",
-      "speciesName": "Ninetales",
+      "speciesId": "quagsire",
+      "speciesName": "Quagsire",
       "score": 91.2,
       "league": "gl",
-      "token": "+vulpix"
-    },
-    {
-      "speciesId": "giratina_altered",
-      "speciesName": "Giratina (Altered)",
-      "score": 91,
-      "league": "ul",
-      "token": "giratina"
-    },
-    {
-      "speciesId": "thievul",
-      "speciesName": "Thievul",
-      "score": 91,
-      "league": "gl",
-      "token": "+nickit"
-    },
-    {
-      "speciesId": "araquanid",
-      "speciesName": "Araquanid",
-      "score": 90.8,
-      "league": "gl",
-      "token": "+dewpider"
+      "token": "+wooper"
     },
     {
       "speciesId": "guzzlord",
       "speciesName": "Guzzlord",
-      "score": 90.8,
+      "score": 91,
       "league": "ul",
       "token": "guzzlord"
     },
     {
-      "speciesId": "sableye_shadow",
-      "speciesName": "Sableye (Shadow)",
-      "score": 90.8,
+      "speciesId": "ninetales",
+      "speciesName": "Ninetales",
+      "score": 90.9,
       "league": "gl",
-      "token": "sableye"
+      "token": "+vulpix"
     },
     {
       "speciesId": "hydreigon_shadow",
@@ -317,13 +299,6 @@
       "token": "+deino"
     },
     {
-      "speciesId": "skeledirge",
-      "speciesName": "Skeledirge",
-      "score": 90.7,
-      "league": "ul",
-      "token": "+fuecoco"
-    },
-    {
       "speciesId": "clodsire",
       "speciesName": "Clodsire",
       "score": 90.6,
@@ -331,67 +306,46 @@
       "token": "+wooper"
     },
     {
-      "speciesId": "dunsparce",
-      "speciesName": "Dunsparce",
+      "speciesId": "sableye_shadow",
+      "speciesName": "Sableye (Shadow)",
       "score": 90.6,
       "league": "gl",
-      "token": "+dunsparce"
+      "token": "sableye"
+    },
+    {
+      "speciesId": "thievul",
+      "speciesName": "Thievul",
+      "score": 90.6,
+      "league": "gl",
+      "token": "+nickit"
+    },
+    {
+      "speciesId": "skeledirge",
+      "speciesName": "Skeledirge",
+      "score": 90.5,
+      "league": "ul",
+      "token": "+fuecoco"
+    },
+    {
+      "speciesId": "araquanid",
+      "speciesName": "Araquanid",
+      "score": 90.4,
+      "league": "gl",
+      "token": "+dewpider"
     },
     {
       "speciesId": "lapras",
       "speciesName": "Lapras",
-      "score": 90.5,
-      "league": "ul",
-      "token": "lapras"
-    },
-    {
-      "speciesId": "marowak",
-      "speciesName": "Marowak",
-      "score": 90.5,
-      "league": "gl",
-      "token": "+cubone"
-    },
-    {
-      "speciesId": "rillaboom",
-      "speciesName": "Rillaboom",
-      "score": 90.5,
-      "league": "ul",
-      "token": "+grookey"
-    },
-    {
-      "speciesId": "vigoroth",
-      "speciesName": "Vigoroth",
-      "score": 90.5,
-      "league": "gl",
-      "token": "+slakoth"
-    },
-    {
-      "speciesId": "fearow",
-      "speciesName": "Fearow",
-      "score": 90.4,
-      "league": "gl",
-      "token": "+spearow"
-    },
-    {
-      "speciesId": "lapras_shadow",
-      "speciesName": "Lapras (Shadow)",
       "score": 90.4,
       "league": "ul",
       "token": "lapras"
     },
     {
-      "speciesId": "stunfisk",
-      "speciesName": "Stunfisk",
-      "score": 90.4,
+      "speciesId": "dunsparce",
+      "speciesName": "Dunsparce",
+      "score": 90.3,
       "league": "gl",
-      "token": "stunfisk"
-    },
-    {
-      "speciesId": "umbreon",
-      "speciesName": "Umbreon",
-      "score": 90.4,
-      "league": "gl",
-      "token": "umbreon"
+      "token": "+dunsparce"
     },
     {
       "speciesId": "dusknoir",
@@ -401,11 +355,25 @@
       "token": "+duskull"
     },
     {
+      "speciesId": "lapras_shadow",
+      "speciesName": "Lapras (Shadow)",
+      "score": 90.3,
+      "league": "ul",
+      "token": "lapras"
+    },
+    {
       "speciesId": "ninetales_alolan",
       "speciesName": "Ninetales (Alolan)",
       "score": 90.3,
       "league": "ul",
       "token": "+vulpix"
+    },
+    {
+      "speciesId": "stunfisk",
+      "speciesName": "Stunfisk",
+      "score": 90.3,
+      "league": "gl",
+      "token": "stunfisk"
     },
     {
       "speciesId": "annihilape",
@@ -415,13 +383,6 @@
       "token": "+mankey"
     },
     {
-      "speciesId": "dondozo",
-      "speciesName": "Dondozo",
-      "score": 90.2,
-      "league": "ul",
-      "token": "dondozo"
-    },
-    {
       "speciesId": "dusknoir_shadow",
       "speciesName": "Dusknoir (Shadow)",
       "score": 90.2,
@@ -429,46 +390,53 @@
       "token": "+duskull"
     },
     {
-      "speciesId": "mantine",
-      "speciesName": "Mantine",
+      "speciesId": "marowak",
+      "speciesName": "Marowak",
       "score": 90.2,
       "league": "gl",
-      "token": "+mantyke"
+      "token": "+cubone"
     },
     {
-      "speciesId": "registeel",
-      "speciesName": "Registeel",
+      "speciesId": "rillaboom",
+      "speciesName": "Rillaboom",
       "score": 90.2,
       "league": "ul",
-      "token": "registeel"
+      "token": "+grookey"
+    },
+    {
+      "speciesId": "umbreon",
+      "speciesName": "Umbreon",
+      "score": 90.2,
+      "league": "gl",
+      "token": "umbreon"
+    },
+    {
+      "speciesId": "vigoroth",
+      "speciesName": "Vigoroth",
+      "score": 90.2,
+      "league": "gl",
+      "token": "+slakoth"
+    },
+    {
+      "speciesId": "dondozo",
+      "speciesName": "Dondozo",
+      "score": 90.1,
+      "league": "ul",
+      "token": "dondozo"
+    },
+    {
+      "speciesId": "fearow",
+      "speciesName": "Fearow",
+      "score": 90.1,
+      "league": "gl",
+      "token": "+spearow"
     },
     {
       "speciesId": "azumarill",
       "speciesName": "Azumarill",
-      "score": 90.1,
+      "score": 90,
       "league": "gl",
       "token": "+azurill"
-    },
-    {
-      "speciesId": "annihilape_shadow",
-      "speciesName": "Annihilape (Shadow)",
-      "score": 90,
-      "league": "gl",
-      "token": "+mankey"
-    },
-    {
-      "speciesId": "araquanid_shadow",
-      "speciesName": "Araquanid (Shadow)",
-      "score": 90,
-      "league": "gl",
-      "token": "+dewpider"
-    },
-    {
-      "speciesId": "blastoise",
-      "speciesName": "Blastoise",
-      "score": 90,
-      "league": "ul",
-      "token": "+squirtle"
     },
     {
       "speciesId": "electrode_hisuian",
@@ -478,151 +446,144 @@
       "token": "+voltorb"
     },
     {
+      "speciesId": "giratina_altered_shadow",
+      "speciesName": "Giratina (Altered) (Shadow)",
+      "score": 90,
+      "league": "ul",
+      "token": "giratina"
+    },
+    {
+      "speciesId": "regidrago",
+      "speciesName": "Regidrago",
+      "score": 90,
+      "league": "ul",
+      "token": "regidrago"
+    },
+    {
+      "speciesId": "annihilape_shadow",
+      "speciesName": "Annihilape (Shadow)",
+      "score": 89.9,
+      "league": "gl",
+      "token": "+mankey"
+    },
+    {
+      "speciesId": "carbink",
+      "speciesName": "Carbink",
+      "score": 89.9,
+      "league": "gl",
+      "token": "carbink"
+    },
+    {
+      "speciesId": "mantine",
+      "speciesName": "Mantine",
+      "score": 89.9,
+      "league": "gl",
+      "token": "+mantyke"
+    },
+    {
       "speciesId": "ninetales_alolan_shadow",
       "speciesName": "Ninetales (Alolan) (Shadow)",
-      "score": 90,
+      "score": 89.9,
       "league": "ul",
       "token": "+vulpix"
     },
     {
-      "speciesId": "sableye",
-      "speciesName": "Sableye",
-      "score": 90,
-      "league": "gl",
-      "token": "sableye"
+      "speciesId": "registeel",
+      "speciesName": "Registeel",
+      "score": 89.9,
+      "league": "ul",
+      "token": "registeel"
     },
     {
       "speciesId": "vigoroth_shadow",
       "speciesName": "Vigoroth (Shadow)",
-      "score": 90,
+      "score": 89.9,
       "league": "gl",
       "token": "+slakoth"
     },
     {
       "speciesId": "deoxys_defense",
       "speciesName": "Deoxys (Defense)",
-      "score": 89.9,
+      "score": 89.8,
       "league": "gl",
       "token": "deoxys"
     },
     {
       "speciesId": "forretress",
       "speciesName": "Forretress",
-      "score": 89.9,
+      "score": 89.8,
       "league": "ul",
       "token": "+pineco"
     },
     {
-      "speciesId": "giratina_altered_shadow",
-      "speciesName": "Giratina (Altered) (Shadow)",
-      "score": 89.9,
-      "league": "ul",
-      "token": "giratina"
-    },
-    {
       "speciesId": "malamar",
       "speciesName": "Malamar",
-      "score": 89.9,
+      "score": 89.8,
       "league": "gl",
       "token": "+inkay"
     },
     {
       "speciesId": "malamar_shadow",
       "speciesName": "Malamar (Shadow)",
-      "score": 89.9,
+      "score": 89.8,
       "league": "gl",
       "token": "+inkay"
     },
     {
-      "speciesId": "regidrago",
-      "speciesName": "Regidrago",
+      "speciesId": "sableye",
+      "speciesName": "Sableye",
       "score": 89.8,
-      "league": "ul",
-      "token": "regidrago"
+      "league": "gl",
+      "token": "sableye"
     },
     {
-      "speciesId": "carbink",
-      "speciesName": "Carbink",
+      "speciesId": "araquanid_shadow",
+      "speciesName": "Araquanid (Shadow)",
       "score": 89.7,
       "league": "gl",
-      "token": "carbink"
+      "token": "+dewpider"
+    },
+    {
+      "speciesId": "cresselia",
+      "speciesName": "Cresselia",
+      "score": 89.7,
+      "league": "ul",
+      "token": "cresselia"
     },
     {
       "speciesId": "charjabug",
       "speciesName": "Charjabug",
-      "score": 89.7,
+      "score": 89.6,
       "league": "gl",
       "token": "+grubbin"
     },
     {
       "speciesId": "furret",
       "speciesName": "Furret",
-      "score": 89.7,
+      "score": 89.4,
       "league": "gl",
       "token": "+sentret"
     },
     {
-      "speciesId": "charjabug_shadow",
-      "speciesName": "Charjabug (Shadow)",
-      "score": 89.6,
-      "league": "gl",
-      "token": "+grubbin"
-    },
-    {
-      "speciesId": "forretress_shadow",
-      "speciesName": "Forretress (Shadow)",
-      "score": 89.6,
-      "league": "gl",
-      "token": "+pineco"
-    },
-    {
       "speciesId": "hippowdon",
       "speciesName": "Hippowdon",
-      "score": 89.6,
+      "score": 89.4,
       "league": "gl",
       "token": "+hippopotas"
     },
     {
       "speciesId": "medicham",
       "speciesName": "Medicham",
-      "score": 89.6,
+      "score": 89.4,
       "league": "gl",
       "token": "+meditite"
     },
     {
-      "speciesId": "cresselia",
-      "speciesName": "Cresselia",
-      "score": 89.4,
-      "league": "ul",
-      "token": "cresselia"
-    },
-    {
-      "speciesId": "mandibuzz",
-      "speciesName": "Mandibuzz",
-      "score": 89.4,
-      "league": "gl",
-      "token": "+vullaby"
-    },
-    {
-      "speciesId": "clefable",
-      "speciesName": "Clefable",
-      "score": 89.3,
-      "league": "ul",
-      "token": "+cleffa"
-    },
-    {
-      "speciesId": "diggersby",
-      "speciesName": "Diggersby",
+      "speciesId": "charjabug_shadow",
+      "speciesName": "Charjabug (Shadow)",
       "score": 89.3,
       "league": "gl",
-      "token": "+bunnelby"
-    },
-    {
-      "speciesId": "jumpluff",
-      "speciesName": "Jumpluff",
-      "score": 89.3,
-      "league": "gl",
-      "token": "+hoppip"
+      "token": "+grubbin"
     },
     {
       "speciesId": "kingdra",
@@ -632,32 +593,25 @@
       "token": "+horsea"
     },
     {
+      "speciesId": "forretress_shadow",
+      "speciesName": "Forretress (Shadow)",
+      "score": 89.2,
+      "league": "gl",
+      "token": "+pineco"
+    },
+    {
+      "speciesId": "mandibuzz",
+      "speciesName": "Mandibuzz",
+      "score": 89.2,
+      "league": "gl",
+      "token": "+vullaby"
+    },
+    {
       "speciesId": "morpeko_full_belly",
       "speciesName": "Morpeko (Full Belly)",
-      "score": 89.3,
+      "score": 89.2,
       "league": "gl",
       "token": "morpeko"
-    },
-    {
-      "speciesId": "muk_alolan",
-      "speciesName": "Muk (Alolan)",
-      "score": 89.3,
-      "league": "ul",
-      "token": "+grimer"
-    },
-    {
-      "speciesId": "hippowdon_shadow",
-      "speciesName": "Hippowdon (Shadow)",
-      "score": 89.2,
-      "league": "gl",
-      "token": "+hippopotas"
-    },
-    {
-      "speciesId": "kingdra_shadow",
-      "speciesName": "Kingdra (Shadow)",
-      "score": 89.2,
-      "league": "gl",
-      "token": "+horsea"
     },
     {
       "speciesId": "talonflame",
@@ -667,25 +621,39 @@
       "token": "+fletchling"
     },
     {
-      "speciesId": "runerigus",
-      "speciesName": "Runerigus",
-      "score": 89.1,
-      "league": "ul",
-      "token": "+yamask"
-    },
-    {
-      "speciesId": "turtonator",
-      "speciesName": "Turtonator",
+      "speciesId": "blastoise",
+      "speciesName": "Blastoise",
       "score": 89.1,
       "league": "gl",
-      "token": "turtonator"
+      "token": "+squirtle"
     },
     {
-      "speciesId": "walrein_shadow",
-      "speciesName": "Walrein (Shadow)",
+      "speciesId": "clefable",
+      "speciesName": "Clefable",
       "score": 89.1,
       "league": "ul",
-      "token": "+spheal"
+      "token": "+cleffa"
+    },
+    {
+      "speciesId": "jumpluff",
+      "speciesName": "Jumpluff",
+      "score": 89.1,
+      "league": "gl",
+      "token": "+hoppip"
+    },
+    {
+      "speciesId": "kingdra_shadow",
+      "speciesName": "Kingdra (Shadow)",
+      "score": 89.1,
+      "league": "gl",
+      "token": "+horsea"
+    },
+    {
+      "speciesId": "muk_alolan",
+      "speciesName": "Muk (Alolan)",
+      "score": 89.1,
+      "league": "ul",
+      "token": "+grimer"
     },
     {
       "speciesId": "dragonair_shadow",
@@ -695,141 +663,134 @@
       "token": "+dratini"
     },
     {
-      "speciesId": "seaking",
-      "speciesName": "Seaking",
+      "speciesId": "hippowdon_shadow",
+      "speciesName": "Hippowdon (Shadow)",
       "score": 89,
-      "league": "ul",
-      "token": "+goldeen"
+      "league": "gl",
+      "token": "+hippopotas"
     },
     {
-      "speciesId": "steelix",
-      "speciesName": "Steelix",
+      "speciesId": "walrein_shadow",
+      "speciesName": "Walrein (Shadow)",
       "score": 89,
       "league": "ul",
-      "token": "+onix"
+      "token": "+spheal"
+    },
+    {
+      "speciesId": "runerigus",
+      "speciesName": "Runerigus",
+      "score": 88.9,
+      "league": "ul",
+      "token": "+yamask"
+    },
+    {
+      "speciesId": "toucannon",
+      "speciesName": "Toucannon",
+      "score": 88.9,
+      "league": "ul",
+      "token": "+pikipek"
     },
     {
       "speciesId": "walrein",
       "speciesName": "Walrein",
-      "score": 89,
+      "score": 88.9,
       "league": "ul",
       "token": "+spheal"
     },
     {
       "speciesId": "cradily",
       "speciesName": "Cradily",
-      "score": 88.9,
+      "score": 88.8,
       "league": "gl",
       "token": "+lileep"
     },
     {
-      "speciesId": "dewgong",
-      "speciesName": "Dewgong",
+      "speciesId": "turtonator",
+      "speciesName": "Turtonator",
       "score": 88.8,
       "league": "gl",
-      "token": "+seel"
+      "token": "turtonator"
     },
     {
-      "speciesId": "pachirisu",
-      "speciesName": "Pachirisu",
-      "score": 88.8,
-      "league": "gl",
-      "token": "pachirisu"
+      "speciesId": "steelix",
+      "speciesName": "Steelix",
+      "score": 88.7,
+      "league": "ul",
+      "token": "+onix"
     },
     {
       "speciesId": "cresselia_shadow",
       "speciesName": "Cresselia (Shadow)",
-      "score": 88.7,
+      "score": 88.6,
       "league": "ul",
       "token": "cresselia"
     },
     {
       "speciesId": "dusclops_shadow",
       "speciesName": "Dusclops (Shadow)",
-      "score": 88.7,
+      "score": 88.6,
       "league": "gl",
       "token": "+duskull"
     },
     {
-      "speciesId": "primarina",
-      "speciesName": "Primarina",
-      "score": 88.7,
-      "league": "ul",
-      "token": "+popplio"
+      "speciesId": "pachirisu",
+      "speciesName": "Pachirisu",
+      "score": 88.6,
+      "league": "gl",
+      "token": "pachirisu"
     },
     {
       "speciesId": "steelix_shadow",
       "speciesName": "Steelix (Shadow)",
-      "score": 88.7,
+      "score": 88.6,
       "league": "ul",
       "token": "+onix"
     },
     {
-      "speciesId": "swampert",
-      "speciesName": "Swampert",
-      "score": 88.7,
-      "league": "ul",
-      "token": "+mudkip"
-    },
-    {
-      "speciesId": "toucannon",
-      "speciesName": "Toucannon",
-      "score": 88.7,
-      "league": "ul",
-      "token": "+pikipek"
+      "speciesId": "dewgong",
+      "speciesName": "Dewgong",
+      "score": 88.5,
+      "league": "gl",
+      "token": "+seel"
     },
     {
       "speciesId": "hydreigon",
       "speciesName": "Hydreigon",
-      "score": 88.6,
+      "score": 88.5,
       "league": "gl",
       "token": "+deino"
     },
     {
+      "speciesId": "seaking",
+      "speciesName": "Seaking",
+      "score": 88.5,
+      "league": "ul",
+      "token": "+goldeen"
+    },
+    {
+      "speciesId": "toucannon_shadow",
+      "speciesName": "Toucannon (Shadow)",
+      "score": 88.5,
+      "league": "ul",
+      "token": "+pikipek"
+    },
+    {
       "speciesId": "ampharos",
       "speciesName": "Ampharos",
-      "score": 88.5,
+      "score": 88.4,
       "league": "ul",
       "token": "+mareep"
     },
     {
-      "speciesId": "doublade",
-      "speciesName": "Doublade",
-      "score": 88.5,
+      "speciesId": "diggersby",
+      "speciesName": "Diggersby",
+      "score": 88.4,
       "league": "gl",
-      "token": "+honedge"
+      "token": "+bunnelby"
     },
     {
-      "speciesId": "golisopod_shadow",
-      "speciesName": "Golisopod (Shadow)",
-      "score": 88.5,
-      "league": "ul",
-      "token": "+wimpod"
-    },
-    {
-      "speciesId": "milotic_shadow",
-      "speciesName": "Milotic (Shadow)",
-      "score": 88.5,
-      "league": "ul",
-      "token": "+feebas"
-    },
-    {
-      "speciesId": "ampharos_shadow",
-      "speciesName": "Ampharos (Shadow)",
-      "score": 88.4,
-      "league": "ul",
-      "token": "+mareep"
-    },
-    {
-      "speciesId": "cradily_shadow",
-      "speciesName": "Cradily (Shadow)",
-      "score": 88.4,
-      "league": "ul",
-      "token": "+lileep"
-    },
-    {
-      "speciesId": "swampert_shadow",
-      "speciesName": "Swampert (Shadow)",
+      "speciesId": "swampert",
+      "speciesName": "Swampert",
       "score": 88.4,
       "league": "gl",
       "token": "+mudkip"
@@ -842,60 +803,53 @@
       "token": "+fletchling"
     },
     {
+      "speciesId": "ampharos_shadow",
+      "speciesName": "Ampharos (Shadow)",
+      "score": 88.3,
+      "league": "ul",
+      "token": "+mareep"
+    },
+    {
+      "speciesId": "cradily_shadow",
+      "speciesName": "Cradily (Shadow)",
+      "score": 88.3,
+      "league": "ul",
+      "token": "+lileep"
+    },
+    {
+      "speciesId": "primarina",
+      "speciesName": "Primarina",
+      "score": 88.3,
+      "league": "ul",
+      "token": "+popplio"
+    },
+    {
+      "speciesId": "swampert_shadow",
+      "speciesName": "Swampert (Shadow)",
+      "score": 88.3,
+      "league": "gl",
+      "token": "+mudkip"
+    },
+    {
       "speciesId": "bellibolt",
       "speciesName": "Bellibolt",
-      "score": 88.3,
+      "score": 88.2,
       "league": "ul",
       "token": "+tadbulb"
     },
     {
-      "speciesId": "marowak_shadow",
-      "speciesName": "Marowak (Shadow)",
-      "score": 88.3,
-      "league": "gl",
-      "token": "+cubone"
-    },
-    {
-      "speciesId": "seismitoad",
-      "speciesName": "Seismitoad",
-      "score": 88.3,
+      "speciesId": "golisopod_shadow",
+      "speciesName": "Golisopod (Shadow)",
+      "score": 88.1,
       "league": "ul",
-      "token": "+tympole"
+      "token": "+wimpod"
     },
     {
       "speciesId": "togekiss",
       "speciesName": "Togekiss",
-      "score": 88.3,
+      "score": 88.1,
       "league": "ul",
       "token": "+togepi"
-    },
-    {
-      "speciesId": "miltank",
-      "speciesName": "Miltank",
-      "score": 88.2,
-      "league": "ul",
-      "token": "miltank"
-    },
-    {
-      "speciesId": "spidops",
-      "speciesName": "Spidops",
-      "score": 88.2,
-      "league": "gl",
-      "token": "+tarountula"
-    },
-    {
-      "speciesId": "dusclops",
-      "speciesName": "Dusclops",
-      "score": 88.1,
-      "league": "gl",
-      "token": "+duskull"
-    },
-    {
-      "speciesId": "toucannon_shadow",
-      "speciesName": "Toucannon (Shadow)",
-      "score": 88.1,
-      "league": "ul",
-      "token": "+pikipek"
     },
     {
       "speciesId": "aegislash_shield",
@@ -905,151 +859,151 @@
       "token": "+honedge"
     },
     {
-      "speciesId": "samurott",
-      "speciesName": "Samurott",
-      "score": 88,
-      "league": "ul",
-      "token": "+oshawott"
-    },
-    {
-      "speciesId": "ursaluna_shadow",
-      "speciesName": "Ursaluna (Shadow)",
+      "speciesId": "doublade",
+      "speciesName": "Doublade",
       "score": 88,
       "league": "gl",
-      "token": "+teddiursa"
+      "token": "+honedge"
+    },
+    {
+      "speciesId": "dusclops",
+      "speciesName": "Dusclops",
+      "score": 87.9,
+      "league": "gl",
+      "token": "+duskull"
+    },
+    {
+      "speciesId": "marowak_shadow",
+      "speciesName": "Marowak (Shadow)",
+      "score": 87.9,
+      "league": "gl",
+      "token": "+cubone"
+    },
+    {
+      "speciesId": "milotic_shadow",
+      "speciesName": "Milotic (Shadow)",
+      "score": 87.9,
+      "league": "ul",
+      "token": "+feebas"
+    },
+    {
+      "speciesId": "seismitoad",
+      "speciesName": "Seismitoad",
+      "score": 87.9,
+      "league": "gl",
+      "token": "+tympole"
     },
     {
       "speciesId": "dragonair",
       "speciesName": "Dragonair",
-      "score": 87.9,
+      "score": 87.8,
       "league": "gl",
       "token": "+dratini"
     },
     {
+      "speciesId": "ursaluna_shadow",
+      "speciesName": "Ursaluna (Shadow)",
+      "score": 87.8,
+      "league": "gl",
+      "token": "+teddiursa"
+    },
+    {
+      "speciesId": "oranguru",
+      "speciesName": "Oranguru",
+      "score": 87.7,
+      "league": "ul",
+      "token": "oranguru"
+    },
+    {
       "speciesId": "gyarados_shadow",
       "speciesName": "Gyarados (Shadow)",
-      "score": 87.9,
+      "score": 87.6,
       "league": "ul",
       "token": "+magikarp"
     },
     {
-      "speciesId": "stunfisk_galarian",
-      "speciesName": "Stunfisk (Galarian)",
-      "score": 87.9,
+      "speciesId": "miltank",
+      "speciesName": "Miltank",
+      "score": 87.5,
+      "league": "ul",
+      "token": "miltank"
+    },
+    {
+      "speciesId": "grumpig",
+      "speciesName": "Grumpig",
+      "score": 87.4,
       "league": "gl",
-      "token": "stunfisk"
+      "token": "+spoink"
     },
     {
       "speciesId": "muk_alolan_shadow",
       "speciesName": "Muk (Alolan) (Shadow)",
-      "score": 87.8,
+      "score": 87.4,
       "league": "ul",
       "token": "+grimer"
     },
     {
       "speciesId": "golisopod",
       "speciesName": "Golisopod",
-      "score": 87.6,
+      "score": 87.3,
       "league": "ul",
       "token": "+wimpod"
     },
     {
       "speciesId": "gourgeist_large",
       "speciesName": "Gourgeist (Large)",
-      "score": 87.6,
-      "league": "gl",
-      "token": "+pumpkaboo"
-    },
-    {
-      "speciesId": "gourgeist_super",
-      "speciesName": "Gourgeist (Super)",
-      "score": 87.6,
-      "league": "gl",
-      "token": "+pumpkaboo"
-    },
-    {
-      "speciesId": "milotic",
-      "speciesName": "Milotic",
-      "score": 87.6,
-      "league": "ul",
-      "token": "+feebas"
-    },
-    {
-      "speciesId": "grumpig",
-      "speciesName": "Grumpig",
-      "score": 87.5,
-      "league": "gl",
-      "token": "+spoink"
-    },
-    {
-      "speciesId": "gyarados",
-      "speciesName": "Gyarados",
-      "score": 87.5,
-      "league": "ul",
-      "token": "+magikarp"
-    },
-    {
-      "speciesId": "bombirdier",
-      "speciesName": "Bombirdier",
-      "score": 87.4,
-      "league": "ul",
-      "token": "bombirdier"
-    },
-    {
-      "speciesId": "jumpluff_shadow",
-      "speciesName": "Jumpluff (Shadow)",
-      "score": 87.4,
-      "league": "gl",
-      "token": "+hoppip"
-    },
-    {
-      "speciesId": "shelgon_shadow",
-      "speciesName": "Shelgon (Shadow)",
-      "score": 87.4,
-      "league": "gl",
-      "token": "+bagon"
-    },
-    {
-      "speciesId": "gourgeist_average",
-      "speciesName": "Gourgeist (Average)",
       "score": 87.3,
       "league": "gl",
       "token": "+pumpkaboo"
     },
     {
-      "speciesId": "drapion_shadow",
-      "speciesName": "Drapion (Shadow)",
-      "score": 87.2,
-      "league": "gl",
-      "token": "+skorupi"
+      "speciesId": "samurott",
+      "speciesName": "Samurott",
+      "score": 87.3,
+      "league": "ul",
+      "token": "+oshawott"
     },
     {
-      "speciesId": "oranguru",
-      "speciesName": "Oranguru",
-      "score": 87.2,
+      "speciesId": "shelgon_shadow",
+      "speciesName": "Shelgon (Shadow)",
+      "score": 87.3,
       "league": "gl",
-      "token": "oranguru"
+      "token": "+bagon"
     },
     {
-      "speciesId": "tentacruel",
-      "speciesName": "Tentacruel",
+      "speciesId": "stunfisk_galarian",
+      "speciesName": "Stunfisk (Galarian)",
+      "score": 87.3,
+      "league": "gl",
+      "token": "stunfisk"
+    },
+    {
+      "speciesId": "bombirdier",
+      "speciesName": "Bombirdier",
       "score": 87.2,
       "league": "ul",
-      "token": "+tentacool"
+      "token": "bombirdier"
     },
     {
-      "speciesId": "orthworm",
-      "speciesName": "Orthworm",
-      "score": 87.1,
-      "league": "ul",
-      "token": "orthworm"
+      "speciesId": "gourgeist_super",
+      "speciesName": "Gourgeist (Super)",
+      "score": 87.2,
+      "league": "gl",
+      "token": "+pumpkaboo"
     },
     {
       "speciesId": "aromatisse",
       "speciesName": "Aromatisse",
-      "score": 87,
+      "score": 87.1,
       "league": "ul",
       "token": "+spritzee"
+    },
+    {
+      "speciesId": "spidops",
+      "speciesName": "Spidops",
+      "score": 87.1,
+      "league": "gl",
+      "token": "+tarountula"
     },
     {
       "speciesId": "articuno",
@@ -1059,102 +1013,165 @@
       "token": "articuno"
     },
     {
-      "speciesId": "cofagrigus",
-      "speciesName": "Cofagrigus",
+      "speciesId": "gourgeist_average",
+      "speciesName": "Gourgeist (Average)",
+      "score": 87,
+      "league": "gl",
+      "token": "+pumpkaboo"
+    },
+    {
+      "speciesId": "gyarados",
+      "speciesName": "Gyarados",
       "score": 87,
       "league": "ul",
-      "token": "+yamask"
+      "token": "+magikarp"
+    },
+    {
+      "speciesId": "milotic",
+      "speciesName": "Milotic",
+      "score": 87,
+      "league": "ul",
+      "token": "+feebas"
+    },
+    {
+      "speciesId": "drapion_shadow",
+      "speciesName": "Drapion (Shadow)",
+      "score": 86.9,
+      "league": "gl",
+      "token": "+skorupi"
     },
     {
       "speciesId": "oinkologne_female",
       "speciesName": "Oinkologne (Female)",
-      "score": 87,
+      "score": 86.9,
       "league": "ul",
       "token": "+lechonk"
     },
     {
-      "speciesId": "piloswine_shadow",
-      "speciesName": "Piloswine (Shadow)",
-      "score": 87,
-      "league": "ul",
-      "token": "+swinub"
+      "speciesId": "gourgeist_small",
+      "speciesName": "Gourgeist (Small)",
+      "score": 86.8,
+      "league": "gl",
+      "token": "+pumpkaboo"
     },
     {
-      "speciesId": "tentacruel_shadow",
-      "speciesName": "Tentacruel (Shadow)",
-      "score": 86.9,
+      "speciesId": "jumpluff_shadow",
+      "speciesName": "Jumpluff (Shadow)",
+      "score": 86.6,
+      "league": "gl",
+      "token": "+hoppip"
+    },
+    {
+      "speciesId": "cofagrigus",
+      "speciesName": "Cofagrigus",
+      "score": 86.5,
+      "league": "ul",
+      "token": "+yamask"
+    },
+    {
+      "speciesId": "tentacruel",
+      "speciesName": "Tentacruel",
+      "score": 86.4,
       "league": "ul",
       "token": "+tentacool"
     },
     {
-      "speciesId": "blastoise_shadow",
-      "speciesName": "Blastoise (Shadow)",
-      "score": 86.8,
-      "league": "ul",
-      "token": "+squirtle"
-    },
-    {
-      "speciesId": "politoed_shadow",
-      "speciesName": "Politoed (Shadow)",
-      "score": 86.8,
-      "league": "ul",
-      "token": "+poliwag"
-    },
-    {
-      "speciesId": "drapion",
-      "speciesName": "Drapion",
-      "score": 86.6,
-      "league": "ul",
-      "token": "+skorupi"
-    },
-    {
-      "speciesId": "cobalion",
-      "speciesName": "Cobalion",
-      "score": 86.5,
-      "league": "ul",
-      "token": "cobalion"
-    },
-    {
-      "speciesId": "genesect_shock",
-      "speciesName": "Genesect (Shock)",
-      "score": 86.5,
-      "league": "ul",
-      "token": "genesect"
-    },
-    {
-      "speciesId": "raikou_shadow",
-      "speciesName": "Raikou (Shadow)",
-      "score": 86.5,
-      "league": "ul",
-      "token": "raikou"
-    },
-    {
-      "speciesId": "piloswine",
-      "speciesName": "Piloswine",
+      "speciesId": "zapdos",
+      "speciesName": "Zapdos",
       "score": 86.4,
+      "league": "ul",
+      "token": "zapdos"
+    },
+    {
+      "speciesId": "crustle",
+      "speciesName": "Crustle",
+      "score": 86.1,
+      "league": "ul",
+      "token": "+dwebble"
+    },
+    {
+      "speciesId": "kommo_o",
+      "speciesName": "Kommo-o",
+      "score": 86.1,
+      "league": "ul",
+      "token": "+jangmo-o"
+    },
+    {
+      "speciesId": "orthworm",
+      "speciesName": "Orthworm",
+      "score": 86.1,
+      "league": "ul",
+      "token": "orthworm"
+    },
+    {
+      "speciesId": "piloswine_shadow",
+      "speciesName": "Piloswine (Shadow)",
+      "score": 86.1,
       "league": "ul",
       "token": "+swinub"
     },
     {
-      "speciesId": "gastrodon",
-      "speciesName": "Gastrodon",
-      "score": 86.3,
+      "speciesId": "blastoise_shadow",
+      "speciesName": "Blastoise (Shadow)",
+      "score": 86,
       "league": "ul",
-      "token": "+shellos"
+      "token": "+squirtle"
     },
     {
-      "speciesId": "samurott_shadow",
-      "speciesName": "Samurott (Shadow)",
-      "score": 86.3,
+      "speciesId": "kyurem",
+      "speciesName": "Kyurem",
+      "score": 86,
       "league": "ul",
-      "token": "+oshawott"
+      "token": "kyurem"
     },
     {
-      "speciesId": "zapdos",
-      "speciesName": "Zapdos",
-      "score": 86.3,
+      "speciesId": "politoed_shadow",
+      "speciesName": "Politoed (Shadow)",
+      "score": 86,
       "league": "ul",
-      "token": "zapdos"
+      "token": "+poliwag"
+    },
+    {
+      "speciesId": "tentacruel_shadow",
+      "speciesName": "Tentacruel (Shadow)",
+      "score": 86,
+      "league": "ul",
+      "token": "+tentacool"
+    },
+    {
+      "speciesId": "drapion",
+      "speciesName": "Drapion",
+      "score": 85.9,
+      "league": "ul",
+      "token": "+skorupi"
+    },
+    {
+      "speciesId": "charizard",
+      "speciesName": "Charizard",
+      "score": 85.8,
+      "league": "ul",
+      "token": "+charmander"
+    },
+    {
+      "speciesId": "kingambit",
+      "speciesName": "Kingambit",
+      "score": 85.8,
+      "league": "ul",
+      "token": "+pawniard"
+    },
+    {
+      "speciesId": "raikou_shadow",
+      "speciesName": "Raikou (Shadow)",
+      "score": 85.8,
+      "league": "ul",
+      "token": "raikou"
+    },
+    {
+      "speciesId": "sylveon",
+      "speciesName": "Sylveon",
+      "score": 85.8,
+      "league": "ul",
+      "token": "sylveon"
     }
   ],
   "notes": [
